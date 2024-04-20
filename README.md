@@ -20,6 +20,12 @@ hugo server
 
 Then visit: http://localhost:1313
 
+Create new article
+
+```
+ hugo new posts/NEW-article.md 
+ ```
+
 
 🛠 Structure
 	•	content/posts/ — All articles in Markdown
