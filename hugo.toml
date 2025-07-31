@@ -1,0 +1,27 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "pvgomes Articles"
+theme = "PaperMod"
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  env = "production"
+  title = "pvgomes Articles"
+  description = "A Paulo Victor Gomes articles"
+  author = "Paulo Victor Gomes"
+  ShowBreadCrumbs = true
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  ShowShareButtons = false
+  defaultTheme = "light"
+  disableThemeToggle = true
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
