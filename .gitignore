@@ -1,0 +1,12 @@
+# Hugo build output
+/public/
+/resources/
+
+# OS & IDE stuff
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Logs and temp
+*.log
