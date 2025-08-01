@@ -1,7 +1,10 @@
-baseURL = "/"
+baseURL = "http://www.pvgomes.com/articles/"
 languageCode = "en-us"
 title = "pvgomes Articles"
 theme = "PaperMod"
+
+relativeURLs = true
+canonifyURLs = true
 
 [pagination]
   pagerSize = 10
